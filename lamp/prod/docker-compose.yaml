@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  web:
+    build: apache
+    env_file:
+      - .env.prod
+    volumes:
+      - ./app:/app
+      - ./apache/certificados:/certificados
+      - ./apache/exemplo.lan.conf:/etc/apache2/sites-enabled/exemplo.lan.conf
+    ports:
+      - 80:80
+      - 443:443
