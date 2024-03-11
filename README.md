@@ -1,5 +1,7 @@
 # Tarefa lamp e lemp do módulo DAWP
-## Valores arquivo .env
+
+## Valores arquivo .env:
+
 ```
 MYSQL_ROOT_PASSWORD=contrasinal do usuario root
 MYSQL_DATABASE=nome da base de datos
@@ -10,4 +12,5 @@ CERT_FILE=arquivo de certificado
 KEY_FILE=arquivo de chave
 ```
 
-## Autor: David Chaves Rodríguez (A22DavidCR@iessanclemente.net)
+**Páxina de hosting mysql:**https://www.freemysqlhosting.net/
+**Autor:**David Chaves Rodríguez (A22DavidCR@iessanclemente.net)
