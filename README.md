@@ -12,5 +12,6 @@ CERT_FILE=arquivo de certificado
 KEY_FILE=arquivo de chave
 ```
 
-**Páxina de hosting mysql:**https://www.freemysqlhosting.net/
-**Autor:**David Chaves Rodríguez (A22DavidCR@iessanclemente.net)
+**Páxina de hosting mysql:** https://www.freemysqlhosting.net/
+---
+**Autor:** David Chaves Rodríguez (A22DavidCR@iessanclemente.net)
